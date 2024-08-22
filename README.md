@@ -39,6 +39,13 @@ Strapi gives you many possible deployment options for your project including [St
 ```
 yarn strapi deploy
 ```
+## ✨ Admin User Credentials
+
+After starting your Strapi project, use the following credentials to log in:
+
+- **Email**: `orlgamal26@gmail.com`
+- **Password**: `Omar1234` or `Omar1234@`
+
 
 ## 📚 Learn more
 
